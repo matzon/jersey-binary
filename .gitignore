@@ -1,0 +1,5 @@
+# Project exclude paths
+/target/
+/.idea/
+/jersey1-binary.iml
+
